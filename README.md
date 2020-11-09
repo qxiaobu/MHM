@@ -1,8 +1,8 @@
 # MHM
 Multi-modal Clinical Data based Hierarchical Multi-label Diagnosis Prediction
 
+To accommodate discrete medical codes, structural information and sequential data in the same framework, we propose Multi-modal Clinical Data based Hierarchical Multi-label model (MHM) to unite and mine such three heterogeneous data.
 
-To accommodate discrete medical codes, structural information and sequential data in the same framework, we propose {\bf M}ulti-modal Clinical Data based {\bf H}ierarchical {\bf M}ulti-label model (MHM) to unite and mine such three heterogeneous data.
 
 # Citation
 @inproceedings{
