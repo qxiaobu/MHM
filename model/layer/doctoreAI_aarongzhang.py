@@ -1,3 +1,7 @@
+# -*- coding: utf-8 -*-
+
+# Author: Zhen Zhang <13161411563@163.com>
+
 from  keras.layers import  *
 from layer.HierarchicalAttention import HierarchicalAttention
 from layer.Reverse import Reverse

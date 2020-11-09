@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+
+# Author: Zhen Zhang <13161411563@163.com>
+
+
 from  keras.layers import  *
 from layer.crossNetLayer import crossNetLayer
 from layer.HierarchicalAttention import HierarchicalAttention

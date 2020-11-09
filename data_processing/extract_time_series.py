@@ -1,3 +1,7 @@
+# -*- coding: utf-8 -*-
+
+# Author: Zhen Zhang <13161411563@163.com>
+
 # This script processes MIMIC-III dataset and builds longitudinal diagnosis records for patients with at least two visits.
 # The output data are cPickled, and suitable for step2
 # Written by zhangzhen(aarongzhang@tencent.com)

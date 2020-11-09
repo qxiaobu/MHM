@@ -1,3 +1,7 @@
+# -*- coding: utf-8 -*-
+
+# Author: Zhen Zhang <13161411563@163.com>
+
 #coding=utf8
 from __future__ import print_function
 from __future__ import absolute_import

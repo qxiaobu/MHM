@@ -1,3 +1,7 @@
+# -*- coding: utf-8 -*-
+
+# Author: Zhen Zhang <13161411563@163.com>
+
 from datetime import datetime
 def extract_item(inputfile,outputfile,itemID):
     outfd = open(outputfile,'w')

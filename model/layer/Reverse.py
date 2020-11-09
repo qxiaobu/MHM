@@ -1,3 +1,7 @@
+# -*- coding: utf-8 -*-
+
+# Author: Zhen Zhang <13161411563@163.com>
+
 from keras.engine import Layer
 from keras import backend as K
 class Reverse(Layer):

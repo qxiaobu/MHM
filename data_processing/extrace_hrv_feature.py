@@ -1,3 +1,7 @@
+# -*- coding: utf-8 -*-
+
+# Author: Zhen Zhang <13161411563@163.com>
+
 import pandas as pd
 
 def processNan(inputFile,outputFile,featureName):

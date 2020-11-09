@@ -1,3 +1,7 @@
+# -*- coding: utf-8 -*-
+
+# Author: Zhen Zhang <13161411563@163.com>
+
 function sum = hrv_means(x)
 addpath('E:\\work\\qiao\\hctsa-master\\hctsa-master\\Operations');
 addpath('E:\\work\\qiao\\hctsa-master\\hctsa-master\\PeripheryFunctions');
